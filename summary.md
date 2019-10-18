@@ -1,1 +1,1 @@
-Zusammenfassung unseres Events beim Hacktoberfest in Frankfurt
+Zusammenfassung unseres Events beim Hacktoberfest in Frankfurt.

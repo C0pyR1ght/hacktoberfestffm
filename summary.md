@@ -13,3 +13,5 @@ Inhalte des Abends:
 - Vorträge
 - Unterhaltungen
 - essen und trinken
+
+und eine Tolle vorstellung von mstaab von github

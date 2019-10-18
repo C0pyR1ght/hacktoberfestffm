@@ -6,6 +6,6 @@ Teilnehmer:
 - Manuel
 - Markus
 - Luca
-- Lukas
+- Lucas
 - Paola
 - Andreas

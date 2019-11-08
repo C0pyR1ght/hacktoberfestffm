@@ -14,3 +14,4 @@ Inhalte des Abends:
 - Vorträge
 - Unterhaltungen
 - essen und trinken
+- GitHub-Einführung

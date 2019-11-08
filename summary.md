@@ -14,3 +14,8 @@ Inhalte des Abends:
 - Vorträge
 - Unterhaltungen
 - essen und trinken
+
+
+Ablauf:
+16:33 Uhr Abfahrt in Aschaffenburg mit dem ICE nach Frankfurt
+22:35 Uhr Heimfahrt
